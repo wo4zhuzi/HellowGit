@@ -1,5 +1,3 @@
-# HellowProject
-Learning Git
+HellowProject
 
 learnging 22git 123
-11
